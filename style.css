@@ -1,0 +1,64 @@
+body {
+  color: black;
+  font-family:monospace;
+  font-size: 15px;
+  background-color:#ffb414;
+  color: rgba(146, 9, 54, 0.67);
+}
+
+
+.h1{
+  font-size: 25px;
+}
+
+
+.h3{
+  font-style: oblique; 
+}
+
+.h4{
+  font-family: sans-serif;
+  font-style: oblique
+}
+
+.pictures{
+  border-color: floralwhite;
+  border-radius: 13px;
+  border-style: solid;
+  width: 400px;
+}
+
+
+.picture2{
+  border-color: black;
+  border-radius: 13px;
+  border-style: solid;
+  width: 200px;
+}
+
+.picture3{
+  border-color: #000000;
+  border-radius: 13px;
+  border-style: solid;
+  width: 300px; 
+}
+
+.img2{
+justify-content: center;
+  flex-wrap: wrap;
+}
+
+.home{
+  color: #f90808;
+  background-color: floralwhite;
+  font-size:16px;
+  font-family: monospace;
+}
+
+p.{
+  color: deeppink;
+  font-size: 12px;
+  font-family: serif;
+}
+
+
